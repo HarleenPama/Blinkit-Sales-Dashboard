@@ -55,7 +55,7 @@ blinkit-dashboard/
 ├── data/
 │   └── BlinkIT_Grocery_Data.xlsx
 ├── assets/
-│   └── blinkit_dashboard.png
+│   └── blinkit_dashboard.pdf
 └── README.md
 ```
 
